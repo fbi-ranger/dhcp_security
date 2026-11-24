@@ -1,0 +1,10 @@
+# Kompilierte Ausgabe (wird aus dhcp_security.typ erzeugt)
+*.pdf
+*.png
+!figures/*.png
+
+# Editor / System
+.vscode/
+*.swp
+*~
+.DS_Store
